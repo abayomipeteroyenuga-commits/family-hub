@@ -1,0 +1,15 @@
+{
+  "name": "PASTOR ABAYOMI BIBLE STORIES FAMILY FAITH HUB",
+  "short_name": "FAMILY FAITH",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a285f",
+  "icons": [
+    {
+      "src": "assets/brand-logo.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
